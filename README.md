@@ -1,2 +1,2 @@
 # colorcode
-Color code guide for beginners
+Color code name guide with example for beginners

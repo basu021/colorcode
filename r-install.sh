@@ -10,6 +10,7 @@ apt upgrade -y
 apt install toilet -y
 apt install cowsay -y
 apt install nano -y
+pkg install mpv -y
 pkg install termux-api -y
 gem install lolcat
 

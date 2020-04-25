@@ -63,3 +63,17 @@ echo -e "\e[38;5;120m Done...!\e[0m"
 
 sleep 3s
 echo " "
+
+echo " "
+echo ' '
+echo ' '
+
+read -p '\e[31mPRESS ENTER TO RUN COLORCODE\e[0m: '
+
+echo 2s
+echo ' '
+echo ' '
+cd
+cd colorcode
+
+bash run.sh

@@ -55,7 +55,7 @@ switch (c)
 printf("    ");
 printf(" \n");
 char command[50];
-strcpy(command, "bash color.sh");
+strcpy(command, "bash $HOME/colorcode/modules/color.sh");
 printf(" \n");
 printf(" \n");
 system(command);
@@ -109,7 +109,7 @@ break;
 
 printf(" \n");
 char cmd[50];
-strcpy(command, "bash background");
+strcpy(command, "bash $HOME/colorcode/modules/background");
 printf(" \n");
 system(command);
 
@@ -157,7 +157,7 @@ break;
 
 printf(" \n");
 char cmdd[50];
-strcpy(command, "bash $HOME/test/colorcode/modules/backco");
+strcpy(command, "bash $HOME/colorcode/modules/backco");
 printf(" \n");
 system(command);
 
@@ -167,7 +167,7 @@ break;
 case 99:
 printf(" \n");
 char mdd[50];
-strcpy(command, "bash update.sh");
+strcpy(command, "bash $HOME/colorcode/modules/update.sh");
 printf(" \n");
 system(command);
 break;

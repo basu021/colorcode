@@ -6,7 +6,7 @@
 
 clang menu.c -o start
 clear
-lolcat banner
+lolcat $HOME/modules/banner
 
 
 ./start

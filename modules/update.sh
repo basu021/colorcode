@@ -68,7 +68,7 @@ echo " "
 echo ' '
 echo ' '
 
-read -p $'\e[31mPRESS ENTER TO RUN COLORCODE\e[0m😊 '
+read -p $'\e[31mPRESS ENTER TO RUN COLORCODE\e[0m '😊
 
 echo 2s
 echo ' '

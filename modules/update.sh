@@ -79,9 +79,10 @@ echo ' '
 echo ' '
 echo ' '
 
-read -p $"\e[1;49;32mPRESS ENTER TO RUN COLOR CODE ☺️ "
+
 cd
 
 cd colorcode
+
 
 bash run.sh

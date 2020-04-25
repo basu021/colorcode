@@ -68,12 +68,18 @@ echo " "
 echo ' '
 echo ' '
 
-read -p $'\e[31mPRESS ENTER TO RUN COLORCODE\e[0m '😊
-
-echo 2s
+echo -e "\e[32mUpdate completed !!! 😃\e[0m '
 echo ' '
 echo ' '
+echo ' '
+sleep 2s
+echo ' '
+echo ' '
+echo ' '
+etc=$'\e[1;49;32m'; nocolor=$'\e[0m'; 
+read -p "${etc}PRESS ENTER TO RUN COLOR CODE${nocolor}☺️"
 cd
+echo 1s
 cd colorcode
 
 bash run.sh

@@ -79,7 +79,7 @@ echo ' '
 echo ' '
 echo ' '
 etc=$'\e[1;49;32m'; nocolor=$'\e[0m'; 
-read -p "${etc}PRESS ENTER TO RUN COLOR CODE${nocolor}☺️"
+read -p '${etc}PRESS ENTER TO RUN COLOR CODE${nocolor}☺️';
 cd
 sleep 1s
 cd colorcode

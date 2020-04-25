@@ -70,7 +70,7 @@ echo " "
 echo ' '
 echo ' '
 
-echo -e "\e[32mUpdate completed !!! 😃\e[0m '
+echo -e "\e[32mUpdate completed !!! 😃\e[0m "
 echo ' '
 echo ' '
 echo ' '

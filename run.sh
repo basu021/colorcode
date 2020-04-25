@@ -6,7 +6,7 @@
 
 clang menu.c -o start
 clear
-lolcat $HOME/modules/banner
+lolcat $HOME/colorcode/modules/banner
 
 
 ./start

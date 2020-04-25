@@ -55,7 +55,7 @@ switch (c)
 printf("    ");
 printf(" \n");
 char command[50];
-strcpy(command, "bash $HOME/colorcode/modules/color.sh");
+strcpy(command, "bash $HOME/colorcode/modules/color");
 printf(" \n");
 printf(" \n");
 system(command);

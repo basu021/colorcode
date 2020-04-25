@@ -28,6 +28,8 @@ echo please wait !!!
 cd
 
 rm -rf colorcode
+echo -e "\e[31m "
+sleep 0.5s
 git clone https://github.com/basu021/colorcode
 
 sleep 0.3s
@@ -79,7 +81,7 @@ echo ' '
 etc=$'\e[1;49;32m'; nocolor=$'\e[0m'; 
 read -p "${etc}PRESS ENTER TO RUN COLOR CODE${nocolor}☺️"
 cd
-echo 1s
+sleep 1s
 cd colorcode
 
 bash run.sh

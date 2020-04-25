@@ -78,10 +78,10 @@ sleep 2s
 echo ' '
 echo ' '
 echo ' '
-etc=$''; nocolor=$'\e[0m'; 
-read -p $'\e[1;49;32mPRESS ENTER TO RUN COLOR CODE ☺️ '
+
+read -p $"\e[1;49;32mPRESS ENTER TO RUN COLOR CODE ☺️ "
 cd
-sleep 
+
 cd colorcode
 
 bash run.sh

@@ -13,3 +13,7 @@
 - Universal color codes 🗺️
 - With background color codes 🤗
 - With example, explanation and guide
+
+## installation guide: 
+
+- 

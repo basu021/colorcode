@@ -18,6 +18,8 @@
    Download video tutorial [From here]()
 
 1: `$ git clone https://www.github.com/basu021/colorcode.git    `
+ 
+2: `$ cd colorcode `
 
 3: `$ bash r-install.sh`
 

@@ -28,14 +28,14 @@
 
 ## Screenshots
 
-- Menu
+## Menu
 
 
 <p align="center">
 <img src="https://github.com/sanjeevnayak30/logo/blob/master/cc4.png" >
 
 </p>
-- Text 
+## Text 
 
 <p align="center">
 <img src="https://github.com/sanjeevnayak30/logo/blob/master/cc2.png" >

@@ -36,7 +36,7 @@
 
 </p>
 
-## Text 
+## Text color
 
 
 <p align="center">

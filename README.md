@@ -1,8 +1,8 @@
-<p
+<p>
 <img src="https://github.com/basu021/colorcode/blob/master/logo/main.png"><br>
 
 </p>
-## Features
+##Features
 
 - Give Color output to your code 🎨
 

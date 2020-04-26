@@ -17,9 +17,9 @@
 ## Installation guide: 
    Download video tutorial [From here]()
 
+1: `$ git clone https://www.github.com/basu021/colorcode.git    `
 
+3: `$ bash r-install.sh`
 
-1: `$ bash r-install.sh`
-
-2: `$ bash run.sh`
+4: `$ bash run.sh`
 

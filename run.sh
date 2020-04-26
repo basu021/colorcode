@@ -7,6 +7,6 @@
 clang menu.c -o start
 clear
 lolcat $HOME/colorcode/modules/banner
-
+bash $HOME/colorcode/modules/profile.
 
 ./start

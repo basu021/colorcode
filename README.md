@@ -19,7 +19,7 @@
 
 
 
-1: `bash r-install.sh`
+1: `$ bash r-install.sh`
 
-2: `bash run.sh`
+2: `$ bash run.sh`
 

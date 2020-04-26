@@ -15,7 +15,7 @@
 - With example, explanation and guide
 
 ## Installation guide: 
-   For download video tutorial [Click here]()
+   Download video tutorial [From here]()
 
 
 

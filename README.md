@@ -32,6 +32,6 @@
 
 
 <p align="center">
-<img src="https://github.com/sillytuktuk2020/Noobspy/blob/master/logo.png" >
-A cloud based remote android managment suite, powered by NodeJS
+<img src="https://github.com/sanjeevnayak30/logo/blob/master/cc4.png" >
+
 </p>

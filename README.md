@@ -42,8 +42,27 @@
 
 
 <p>
-<img src="https://github.com/sanjeevnayak30/logo/blob/master/cc2.png"   width="200px"
 
-         >
+
+
+
+
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/sanjeevnayak30/logo/blob/master/cc2.png" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/sanjeevnayak30/logo/blob/master/cc3.png" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/sanjeevnayak30/logo/blob/master/cc1.png" alt="Mountains" style="width:100%">
+  </div>
+</div>
+
+
+
+
+
+
 
 </p>

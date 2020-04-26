@@ -52,8 +52,8 @@
     <img src="https://github.com/sanjeevnayak30/logo/blob/master/cc2.png" width="150"
 
 
-
-    img src="https://github.com/sanjeevnayak30/logo/blob/master/cc3.png" width="150">
+>
+    <img src="https://github.com/sanjeevnayak30/logo/blob/master/cc3.png" width="150">
   </div>
   <div class="column">
     <img src="https://github.com/sanjeevnayak30/logo/blob/master/cc1.png" width="150">

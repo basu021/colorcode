@@ -49,7 +49,7 @@
 
 <div class="row">
   <div class="column">
-    <img src="https://github.com/sanjeevnayak30/logo/blob/master/ok.png" width="800"
+    <img src="https://github.com/sanjeevnayak30/logo/blob/master/ok.png" width="500"
 
 
 >

@@ -32,7 +32,9 @@
 
 
 <p align="center">
-<img src="https://github.com/sanjeevnayak30/logo/blob/master/cc4.png" >
+<img src="https://github.com/sanjeevnayak30/logo/blob/master/cc4.png"   width="200px"
+
+height="400px" >
 
 </p>
 

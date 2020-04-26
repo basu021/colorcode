@@ -35,7 +35,8 @@
 <img src="https://github.com/sanjeevnayak30/logo/blob/master/cc4.png" >
 
 </p>
-## Text 
+## Text color
+
 
 <p align="center">
 <img src="https://github.com/sanjeevnayak30/logo/blob/master/cc2.png" >

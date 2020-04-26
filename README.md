@@ -14,6 +14,12 @@
 - With background color codes 🤗
 - With example, explanation and guide
 
-## installation guide: 
+## Installation guide: 
+   For download video tutorial [Click here]()
 
-- 
+
+
+1: `bash r-install.sh`
+
+2: `bash run.sh`
+

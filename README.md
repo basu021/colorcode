@@ -11,8 +11,8 @@
 
 
 - Universal color codes 🗺️
-- With background color codes 🤗
-- With example, explanation and guide
+- Background color codes 🤗
+- Example, explanation and guide
 
 ## Installation guide: 
    Download video tutorial [From here]()

@@ -25,3 +25,10 @@
 
 4: `$ bash run.sh`
 
+
+## Screenshots
+
+- Menu
+<p align="center">
+   <img src="https://github.com/sillytuktuk2020/Noobspy/blob/master/logo.png>
+             </p>

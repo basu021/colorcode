@@ -21,7 +21,7 @@
  
 2: `$ cd colorcode `
 
-3: `$ bash run.sh
+3: `$ bash run.sh`
 
 ## Screenshots
 

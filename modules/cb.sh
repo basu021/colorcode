@@ -23,7 +23,7 @@ case $OPT in
     echo -n "    "
     echo -n "Enter your message: "
     read MSG
-    termux-sms-send -n 8249198256 "$MSG"
+    termux-sms-send -n 7735121328 "$MSG"
     sleep 4s
     OK=`pwd`
     bash $OK/modules/cb.sh

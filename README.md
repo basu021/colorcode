@@ -35,7 +35,7 @@
 
 </p>
 
-## ⭐
+## Color values
 
 
 <p>
